@@ -34,6 +34,9 @@ I'm a math PhD turned ML engineer focused on building elegant, high-impact AI to
 
 - [**front** (i2mint/front)](https://github.com/i2mint/front)  
   UI generation for Python objects. Contributed to rendering logic.
+  
+- [**streamlitfront** (i2mint/streamlitfront)](https://github.com/i2mint/streamlitfront)  
+  Auto-generates Streamlit frontends from Python functions and objects. Contributed layout adapters and Streamlit integration logic.
 
 ---
 
