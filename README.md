@@ -44,7 +44,7 @@ I'm a math PhD turned ML engineer focused on building elegant, high-impact AI to
 
 - [Blog](https://sylvainbonnot.github.io/blog/)
 - [GitHub Actions](https://github.com/sylvainbonnot/industrial-audio-rag/actions)
-- [LinkedIn](https://www.linkedin.com/in/sylvain-bonnot/) *(add if public)*
+- [LinkedIn](https://www.linkedin.com/in/sylvain-bonnot/) 
 
 ---
 
