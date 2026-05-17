@@ -4,13 +4,17 @@
 
 # Hi, I'm Sylvain Bonnot
 
-**Lead Data Scientist | Industrial AI | Audio Analytics | OSS Contributor**
+**Lead Data Scientist | Applied AI Systems | GenAI & RAG | Operational AI**
 
-I'm a math PhD turned ML engineer focused on building elegant, high-impact AI tools — especially in non-text domains like sound, vibration, and sensor data. 
-
+Math PhD turned Applied AI Engineer building operational AI systems for complex real-world environments — from industrial signal intelligence to production-grade RAG, agentic workflows, evaluation, and observability.
 ---
 
 ## Featured Projects
+
+- [**operational-ai-copilot**](https://github.com/sylvainbonnot/operational-ai-copilot)  
+  *“Ask an AI copilot why your machine is failing.”*  
+  Intent-driven agentic RAG over maintenance tickets, manuals, and sensor data: pgvector + nomic embeddings → 6-intent orchestrator → Ollama LLM.
+  With human-in-the-loop feedback, a 20-question eval CI gate, and Prometheus/Grafana observability out of the box.
 
 - [**industrial-audio-rag**](https://github.com/sylvainbonnot/industrial-audio-rag)  
   *“Ask natural-language questions about factory sounds.”*  
